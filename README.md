@@ -29,13 +29,13 @@ O laboratório é composto por um servidor Windows Server 2025 e uma estação c
 - Active Directory
 - DNS
 - Servidor de arquivos
-- IP da rede do laboratório: `192.168.56.10`
+- IP da rede do laboratório: `192.168.XX.XX`
 
 ### Cliente
 
 - Sistema: Windows 10 Pro
 - Função: Estação de trabalho
-- IP da rede do laboratório: `192.168.56.20`
+- IP da rede do laboratório: `192.168.XX.XX`
 - Ingressado no domínio `clickti.local`
 
 ## 🏢 Domínio
