@@ -1,5 +1,8 @@
 # Active Directory
 
+![Active Directory](images/active-directory.png)
+
+
 ## Visão geral
 
 O Active Directory Domain Services (AD DS) foi instalado no Windows Server 2025 para centralizar a autenticação, o gerenciamento de usuários, grupos, computadores e recursos do ambiente.
