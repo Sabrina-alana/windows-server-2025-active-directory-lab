@@ -1,5 +1,7 @@
 # Topologia de Rede
 
+![Topologia de Rede](images/topologia-rede.png)
+
 ## Visão geral
 
 Este laboratório foi desenvolvido utilizando máquinas virtuais no Oracle VirtualBox, simulando uma pequena infraestrutura corporativa.
