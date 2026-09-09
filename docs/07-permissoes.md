@@ -48,6 +48,8 @@ C:\Compartilhamentos\
     └── Grupo: Diretoria
 ```
 
+![Permissões e Controle de Acesso](images/permissoes-acesso.png)
+
 ## Controle de acesso
 
 O acesso aos recursos foi definido de acordo com a função de cada usuário.
