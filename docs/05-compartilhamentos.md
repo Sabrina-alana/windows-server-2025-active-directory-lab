@@ -1,5 +1,7 @@
 # Compartilhamentos SMB
 
+![Compartilhamentos de Arquivos](images/compartilhamentos.png)
+
 ## Visão geral
 
 Foi configurado um servidor de arquivos utilizando o Windows Server 2025 e o protocolo SMB (Server Message Block).
