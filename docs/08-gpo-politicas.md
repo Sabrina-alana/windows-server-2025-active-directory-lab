@@ -1,4 +1,6 @@
-# Validação do Ambiente
+# GPO - Políticas de Segurança
+
+![Políticas de Segurança](images/gpo-politicas.png)
 
 ## Visão geral
 
