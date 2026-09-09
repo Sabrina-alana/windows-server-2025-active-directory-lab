@@ -2,6 +2,8 @@
 
 Laboratório prático de infraestrutura desenvolvido para estudos e simulação de um ambiente corporativo utilizando Windows Server 2025, Active Directory, DNS, Group Policy, compartilhamentos SMB e controle de acesso.
 
+![Resumo do Laboratório](docs/images/resumo-laboratorio.png)
+
 ## 🎯 Objetivo
 
 Este projeto tem como objetivo demonstrar, na prática, a implantação e administração de uma infraestrutura de rede baseada em Windows Server, simulando um ambiente empresarial com usuários, departamentos, grupos, compartilhamentos de arquivos e políticas de grupo.
