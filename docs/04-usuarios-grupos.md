@@ -1,10 +1,14 @@
 # Usuários e Grupos
 
+![Usuários e Grupos](images/usuarios-grupos.png)
+
 ## Visão geral
 
 Para simular um ambiente corporativo, foram criados usuários e grupos de segurança no Active Directory.
 
 A utilização de grupos permite organizar os usuários por departamento e facilitar o gerenciamento das permissões de acesso aos recursos da rede.
+
+![Estrutura do Active Directory](images/estrutura-active-directory.png)
 
 ## Usuários
 
