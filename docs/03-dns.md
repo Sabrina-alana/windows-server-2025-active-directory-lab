@@ -1,5 +1,7 @@
 # DNS
 
+![DNS](images/dns.png)
+
 ## Visão geral
 
 O serviço DNS foi configurado no Windows Server 2025 como parte da infraestrutura do domínio `clickti.local`.
