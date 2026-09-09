@@ -1,5 +1,7 @@
 # GPO - Mapeamento de Unidades de Rede
 
+![GPO e Mapeamento de Unidades](images/gpo-mapeamento-unidades.png)
+
 ## Visão geral
 
 Foram configuradas Group Policy Objects (GPOs) no Windows Server 2025 para realizar automaticamente o mapeamento das pastas compartilhadas nos computadores dos usuários.
